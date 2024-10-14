@@ -1,0 +1,12 @@
+h1, h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius: 10%;
+}
+
+body {
+    background-color: rgb(52, 106, 200);
+}
